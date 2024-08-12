@@ -5,7 +5,7 @@ import {
   useEffect,
   useReducer,
 } from 'react';
-const Base_URL = 'http://localhost:8000';
+const Base_URL = 'https://worldwise-json-server-ag9v.onrender.com';
 const citiesContext = createContext();
 const initialState = {
   cities: [],
