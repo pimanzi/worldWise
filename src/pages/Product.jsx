@@ -13,15 +13,16 @@ export default function Product() {
         <div>
           <h2>About WorldWide.</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo est
-            dicta illum vero culpa cum quaerat architecto sapiente eius non
-            soluta, molestiae nihil laborum, placeat debitis, laboriosam at fuga
-            perspiciatis?
-          </p>
-          <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis
-            doloribus libero sunt expedita ratione iusto, magni, id sapiente
-            sequi officiis et.
+            WorldWise is your ultimate tool for documenting and reflecting on
+            your adventures around the globe. Whether you're exploring bustling
+            cities or serene landscapes, WorldWise lets you mark each location
+            on an interactive map, creating a personalized travel log. At every
+            stop, you can save notes that capture the memories and experiences
+            that made your journey special. With a focus on simplicity and
+            meaningful reflection, WorldWise is designed for travelers who
+            cherish the stories behind their trips. Keep your adventures
+            organized, relive your experiences, and plan your next journey with
+            WorldWise.
           </p>
         </div>
       </section>
