@@ -32,7 +32,7 @@ To run the app locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/worldWise.git
+   git clone https://github.com/pimanzi/worldWise.git
    ```
 2. Navigate to the project directory
 
@@ -78,8 +78,12 @@ npm run preview
 
 ## Contribution
 
-Feel free to contribute on this project
+Feel free to contribute on this project by reaching to the contacts provided below
 
 ## Licence
 
 This project is licenced under the MIT Licence. See the LICENCE file for details
+
+## Contacts
++ [Email](p.imanzi@alustudent.com)
++ [Github](https://github.com/pimanzi)
