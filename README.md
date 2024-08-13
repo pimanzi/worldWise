@@ -25,6 +25,8 @@ To get started with WorldWise:
 - **Map Integration:** Leaflet
 - **Date Management:** `react-datepicker`
 - **Mock API:** JSON Server
+- **Netlify:** Deploying static files
+- **Render:** Deploying the fake Api
 
 ## Installation
 
